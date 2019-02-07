@@ -1,0 +1,26 @@
+{
+  "name": "webpacknote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaZhaoLis/webpackNote.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "dazhaoLi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaZhaoLis/webpackNote/issues"
+  },
+  "homepage": "https://github.com/DaZhaoLis/webpackNote#readme"
+}
